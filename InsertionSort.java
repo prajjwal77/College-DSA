@@ -2,7 +2,7 @@ package DSAPrep;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//function code 
 public class InsertionSort {
 	public static void insertionSort(int[] arr) {
         int n = arr.length;
