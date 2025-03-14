@@ -4,6 +4,8 @@ import java.util.Arrays;
 import java.util.Scanner;
 
 public class MergeSort {
+	 // Time Complexity: O(n log n) (all cases)
+        // Space Complexity: O(n) (due to temporary arrays)
 	public static void mergeSort(int arr[], int left, int right) {
 		if(left<right) {
 			int mid = left + (right - left)/2;
