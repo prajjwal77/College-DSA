@@ -2,7 +2,7 @@ package DSAPrep;
 
 import java.util.Arrays;
 import java.util.Scanner;
-
+//Atlassian's asked question
 public class FindPlatformGFGAtlassian {
 	 public static int findPlatform(int arr[], int dep[]) {
 	        // Sort arrival and departure times
