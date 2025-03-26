@@ -1,5 +1,5 @@
 package DSAPrep;
-
+//Coverin all type of 2d array Operations
 public class TwoDimensionsArrayOperations {
 	public static void main(String[] args) {
 		int[][] matrix = {
