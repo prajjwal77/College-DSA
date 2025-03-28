@@ -1,7 +1,7 @@
 package DynamicProgramming;
 
 import java.util.Scanner;
-
+//Bottom-Up Approach of DP
 public class FibonacciSeries {
 	public static int fibo(int n) {
 		int fibSeries[] = new int[n + 1];
@@ -23,7 +23,7 @@ public class FibonacciSeries {
 		
 		return fibSeries[n];
 	}
-
+//Top-Down Approach Of DP 
 	public static int fib(int n) {
 		int a = 0, b = 1, c = 0;
 		if (n == 0) {
