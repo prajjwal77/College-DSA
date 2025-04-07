@@ -3,7 +3,7 @@ package DSAPrep;
 import java.util.Scanner;
 
 
-
+//implementation of average, insertion, deletion, linear search, binary search, display, reverse, merge
 public class ArraysOperationsImplementation {
 
 	 // Method to calculate average of array elements
